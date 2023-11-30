@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Joey,
 
-#### I am a Master Student at the Top-Ranking French Engineering School École Centrale. I'm doing my final year with a specialization in Artificial Intelligence, alongside a Master's degree in AI at the University of Aix-Marseille.  I'm #### passionate about the fields of AI and Computer Sciences, in which I hope to work in the future.  
+#### I am a Master Student at the Top-Ranking French Engineering School École Centrale. I'm doing my final year with a specialization in Artificial Intelligence, alongside a Master's degree in AI at the University of Aix-Marseille.  I'm passionate about the fields of AI and Computer Sciences, in which I hope to work in the future.  
 
 #### - 🔭 I’m currently seeking an internship in AI, more specifically, as a Research Intern, or an Engineer Intern.
 #### - 💬 Ask me about my skills, my projects in the field of AI
