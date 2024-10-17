@@ -1,10 +1,10 @@
-### Hi there 👋, my name is Joey,
+👋 About Me
+I’m a Master’s student at École Centrale de Marseille, completing a dual degree in Artificial Intelligence at Aix-Marseille University. With a strong passion for AI and computer science, I am eager to apply my skills to solve complex, real-world problems. Currently, I’m focused on exploring AI safety and interpretability, areas that excite me as I look ahead to building a career in AI.
 
-#### I am a Master Student at the Top-Ranking French Engineering School École Centrale. I'm doing my final year with a specialization in Artificial Intelligence, alongside a Master's degree in AI at the University of Aix-Marseille.  I'm passionate about the fields of AI and Computer Sciences, in which I hope to work in the future.  
+- 💬 Ask me about my skills, my projects in the field of AI
+- 📫 How to reach me: joey.skaf@outlook.fr
+- 💡 Interests: AI Safety, Interpretability, Graphs, Reinforcement Learning and cutting-edge AI applications.
 
-#### - 🔭 I’m currently doing an Internship at STMicroelectronics. I implement AI models to optimise analog designs to meet given electrical specifications while ensuring robustness to multi process, temperature and voltage conditions
-#### - 💬 Ask me about my skills, my projects in the field of AI
-#### - 📫 How to reach me: joey.skaf@centrale-med.fr
 
 <!--
 **jskaf34/jskaf34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
