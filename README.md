@@ -1,5 +1,5 @@
 #### 👋 About Me
-I’m a graduated Master’s student at École Centrale de Marseille, completing a dual degree in Artificial Intelligence at Aix-Marseille University. With a strong passion for AI and computer science, I am eager to apply my skills to solve complex, real-world problems. Currently, I’m focused on exploring AI safety and interpretability, areas that excite me as I look ahead to building a career in AI.
+I’m a graduated Master’s student at École Centrale de Marseille, completing a dual degree in Artificial Intelligence at Aix-Marseille University. With a strong passion for AI and computer science, I am eager to apply my skills to solve complex, real-world problems. Currently, I’m focused on exploring AI safety and interpretability, areas that excite me as I look ahead to building a career in AI safety.
 ### I am opened to work, as a Research Scientist/Engineer in AI.
 
 - 💬 Ask me about my skills, my projects in the field of AI
