@@ -1,10 +1,10 @@
 #### 👋 About Me
-I’m a graduated Master’s student at École Centrale de Marseille, completing a dual degree in Artificial Intelligence at Aix-Marseille University. With a strong passion for AI and computer science, I am eager to apply my skills to solve complex, real-world problems. Currently, I’m focused on exploring AI safety and interpretability, areas that excite me as I look ahead to building a career in AI safety.
-### I am opened to work, as a Research Scientist/Engineer in AI.
+AI enthusiast with a Master of Science from Aix-Marseille University and a Master of Engineering from École Centrale de Marseille. Passionate about AI safety and interpretability, I am actively involved in two projects aimed at making the field of AI safer. I am currently seeking a role as an ML/AI Engineer or Researcher starting in April. Please feel free to contact me on LinkedIn or share my profile with anyone who might be interested.
+### I am opened to work, as a AI Engineer or Research Scientist/Engineer in AI.
 
 - 💬 Ask me about my skills, my projects in the field of AI
 - 📫 How to reach me: joey.skaf@outlook.fr
-- 💡 Interests: AI Safety, Interpretability, Graphs, Reinforcement Learning and cutting-edge AI applications.
+- 💡 Interests: AI Safety, Interpretability, Graphs, Reinforcement Learning.
 
 
 <!--
